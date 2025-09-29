@@ -1,0 +1,52 @@
+{
+  "quizId": "LM12PMEN0KAT2T",
+  "title": "Intro to ScratchJr - Test",
+  "type": "test",
+
+  "questions": [
+    {
+      "id": "S1",
+      "type": "slide",
+      "slideType": "titleSubtitle",
+      "title": "Intro to ScratchJr, Test",
+      "subtitle": "Lesson ID: LM12PMEN0KAT2T"
+    },
+    {
+      "id": "Q1",
+      "type": "question",
+      "questionType": "wordCloud",
+      "questionText": "How are you feeling today?",
+      "timeLimit": null
+    },
+    {
+      "id": "Q2",
+      "type": "question",
+      "questionType": "location",
+      "questionText": "Click on one of the simple movement blocks in the ScratchJr palette.",
+      "image": "img/png1-limi-quiz.png",
+      "answer": {
+        "x1": 7,
+        "y1": 7,
+        "x2": 270,
+        "y2": 57
+      },
+      "timeLimit": 60
+    },
+    {
+      "id": "Q3",
+      "type": "question",
+      "questionType": "select",
+      "questionText": "Which blocks do you use to turn your character left and right?",
+      "options": ["Turn Blocks", "Simple Movement Blocks", "Rotation Blocks"],
+      "answer": "Rotation Blocks",
+      "timeLimit": 60
+    },
+    {
+      "id": "S2",
+      "type": "slide",
+      "slideType": "titleImage",
+      "title": "Woohoo! You're done!",
+      "image": "img/png2-limi-quiz.png"
+    }
+  ]
+}
